@@ -1,24 +1,23 @@
-# Welcome to JJK-MN 👋
+# Welcome to the JLens Project 👋
 
-> **JJK-MN** is an organization dedicated to building and sharing open-source projects, tools, and solutions.
+> **JLens** is a tool designed for assisting visually impaired people through computer vision and ML techniques
 
 ---
 
 ## 🚀 About Us
 
-We are a collaborative team passionate about software development, innovation, and open-source contributions. Our work spans a variety of domains including web development, automation, and tooling — all with a focus on quality and community.
+We are a collaborative team passionate about software development, innovation and creating a real-world impact. The JLens project spans across a variety of domains including App Development, Netowrking, Machine Learning Models, and Tooling.
 
 ---
 
-## 📂 Our Projects
+## 📂 Our Repositories
 
 Here you'll find repositories covering:
 
-- **Web Applications** – Full-stack projects and front-end experiments
-- **Automation & Tooling** – Scripts and utilities to streamline workflows
-- **Open-Source Contributions** – Libraries and modules designed to be reused and extended
+- **App Development** – React Native Frontend & App backend for the JLens App
+- **Server** – REST APIs, Scripts and utilities to accommodate the machine learning models and other server-side functionality
 
-Browse our [repositories](https://github.com/orgs/JJK-MN/repositories) to explore everything we're working on.
+Access them at [repositories](https://github.com/orgs/JJK-MN/repositories)
 
 ---
 
@@ -29,9 +28,6 @@ We welcome contributions from the community! If you'd like to get involved:
 1. Fork the repository you're interested in
 2. Create a new branch for your feature or bug fix
 3. Submit a pull request with a clear description of your changes
-
-Please review the `CONTRIBUTING.md` file in any individual repository for project-specific guidelines.
-
 ---
 
 ## 📬 Contact
@@ -45,7 +41,7 @@ Have questions, ideas, or just want to say hello?
 
 ## 📜 License
 
-Unless otherwise stated, projects within this organization are released under the [MIT License](https://opensource.org/licenses/MIT).
+Unless otherwise stated, projects within this organisation are released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
